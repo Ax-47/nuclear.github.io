@@ -39,7 +39,7 @@ export default function Home() {
             </ul>
           </div>
 
-          <Image src="/t-25.png" alt="nuclear" width={500} height={500} className="rounded-lg shadow-lg" />
+          <Image src="/t-25.png" alt="nuclear" width={500} height={500}  />
         </div>
       </div>
 
@@ -49,7 +49,7 @@ export default function Home() {
         </h1>
 
         <div className="flex flex-col md:flex-row gap-10">
-          <Image src="/sun.png" alt="nuclear" width={500} height={500} className="rounded-lg shadow-lg" />
+          <Image src="/sun.png" alt="nuclear" width={500} height={500} />
 
           <div className="flex-1 py-[100px] w-1/2">
             <h2 className="text-3xl font-bold text-[#00fa26] mb-4">ประโยชน์</h2>
