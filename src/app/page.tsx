@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="bg-[#00fa26] min-h-screen flex flex-col items-center">
       <Image
-        src="/nuclear.gif"
+        src="https://ax-47.github.io/nuclear.github.io/nuclear.gif"
         alt="nuclear"
         width={1980}
         height={814}
@@ -39,7 +39,7 @@ export default function Home() {
             </ul>
           </div>
 
-          <Image src="/t-25.png" alt="nuclear" width={500} height={500}  />
+          <Image src="https://ax-47.github.io/nuclear.github.io/t-25.png" alt="nuclear" width={500} height={500}  />
         </div>
       </div>
 
@@ -49,7 +49,7 @@ export default function Home() {
         </h1>
 
         <div className="flex flex-col md:flex-row gap-10">
-          <Image src="/sun.png" alt="nuclear" width={500} height={500} />
+          <Image src="https://ax-47.github.io/nuclear.github.io/sun.png" alt="nuclear" width={500} height={500} />
 
           <div className="flex-1 py-[100px] w-1/2">
             <h2 className="text-3xl font-bold text-[#00fa26] mb-4">ประโยชน์</h2>
@@ -66,7 +66,7 @@ export default function Home() {
       </div>
       <div className="flex w-full p-10 bg-[#fffeff] px-[100px] shadow-lg z-[1]">
         <div className="absolute z-[-1] left-1/2 transform -translate-x-1/2">
-          <Image src="/core.webp" alt="nuclear" width={500} height={500} />
+          <Image src="https://ax-47.github.io/nuclear.github.io/core.webp" alt="nuclear" width={500} height={500} />
         </div>
         <div className="flex flex-row">
           <div className=" p-10 bg-[#00fa26] shadow-lg w-1/2 justify-start self-start">
@@ -131,7 +131,7 @@ export default function Home() {
         </h1>
 
         <div className="flex flex-row gap-[200px]">
-          <Image src="/sun.png" alt="nuclear" width={500} height={500} className="justify-start" />
+          <Image src="https://ax-47.github.io/nuclear.github.io/sun.png" alt="nuclear" width={500} height={500} className="justify-start" />
           <div className="flex-1 justify-end">
             <div className=" w-3/4 ">
 
